@@ -59,7 +59,7 @@ Arquitetura utilizada foi o MVC, um padrão de design usado para desacoplar a in
 Procedimento para instalação local:
 
 1. Clone project:
-   `git clone git@github.com:wcipriano/myfinance-web-dotnet.git`
+   `git clone git@github.com:ThiagoFerreiraa/myfinance-web-donet.git`
 1. Open project folder:
    `cd myfinance-web-dotnet`
 1. Create _.env_ file on the project root dir, and insert keys: `CONNECTION_STRING`
