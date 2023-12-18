@@ -2,7 +2,7 @@
 
 Pos-graduação Especialização em Engenharia de Software - Práticas de Implementação e Evolução de Software - Trabalho Prático Final.
 
-Wager Cipriano - 993540
+Thiago da Silva Ferreira - 1668859
 
 Implementação de uma aplicação Web, aquitetura MVC, em dotnet C# para controle de finanças:
 [Link da Atividade no LMS](https://pucminas.instructure.com/courses/152488/discussion_topics/584975)
